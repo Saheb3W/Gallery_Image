@@ -1,0 +1,26 @@
+
+.home {
+    background: #eef2fe;
+    padding-bottom: 20px;
+}
+.notice-baner{
+    background: #9b1fe9;
+    padding: 10px 0;
+}
+.notic-container{
+    margin: auto;
+    max-width: 1340px;
+    padding: 0 30px;
+}
+
+.container{
+    margin: auto;
+    max-width: 1340px;
+    padding: 0 30px;
+        
+}
+.main-container{
+    margin: 0;
+    padding: 0;
+}
+
